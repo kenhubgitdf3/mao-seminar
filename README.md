@@ -10,6 +10,7 @@ https://elmas3.github.io/mao-seminar/
 けん
 あいうえお
 かきくけこ
+さしすせそ
 
 # ディレクトリ構成
 ```
