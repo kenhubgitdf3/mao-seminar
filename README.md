@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 わかば
 エルマス
 けん
+かきくけこ
 
 # ディレクトリ構成
 ```
